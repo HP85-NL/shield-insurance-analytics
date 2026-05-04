@@ -342,18 +342,12 @@ shield-insurance-analytics/
 ├── 📂 docs/
 │   ├── feature_list.xlsx          ← 17 features with priority & comments
 │   ├── dax_metrics_list.xlsx      ← All 18 measures with DAX formulas
-│   ├── dashboard_mockup.pdf       ← 3-page wireframe (pre-build)
 │   └── client_updated_mockup.pdf  ← Client feedback mockup
-│
-├── 📂 dashboard/
-│   └── shield_insurance.pbix      ← Power BI file (main deliverable)
 │
 ├── 📂 documentation/
 │   └── shield_insurance_report ← User guide for client
 │
-└── 📂 assets/
-    ├── shield_insurance_logo.png
-    └── screenshots/
+└── 📂 screenshots/
         ├── home_page.png
         ├── general_view.png
         ├── sales_mode.png
