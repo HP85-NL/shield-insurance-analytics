@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/screenshots/home_page.png" alt="Shield Insurance Analytics Dashboard" width="100%"/>
+<img src="screenshots/home_page.png" alt="Shield Insurance Analytics Dashboard" width="100%"/>
 
 # 🛡️ Shield Insurance — Analytics Dashboard
 
@@ -233,7 +233,7 @@ Expected Settlement % = AVERAGE(fact_settlements[settlement %])
 
 ### 🏠 Home Page — Navigation Hub
 
-<img src="assets/screenshots/home_page.png" alt="Home Page" width="100%"/>
+<img src="screenshots/home_page.png" alt="Home Page" width="100%"/>
 
 The home page provides a high-level snapshot (989M revenue, 27K customers, 4 channels, 6 months) and navigation buttons to each analytical page. Designed so non-technical stakeholders can immediately orient themselves.
 
@@ -241,7 +241,7 @@ The home page provides a high-level snapshot (989M revenue, 27K customers, 4 cha
 
 ### 📋 Page 1 — General View
 
-<img src="assets/screenshots/general_view.png" alt="General View" width="100%"/>
+<img src="screenshots/general_view.png" alt="General View" width="100%"/>
 
 **What it answers:**
 - How much revenue and customers do we have total?
@@ -261,7 +261,7 @@ The home page provides a high-level snapshot (989M revenue, 27K customers, 4 cha
 
 ### 📊 Page 2 — Sales Mode Analysis
 
-<img src="assets/screenshots/sales_mode.png" alt="Sales Mode Analysis" width="100%"/>
+<img src="screenshots/sales_mode.png" alt="Sales Mode Analysis" width="100%"/>
 
 **What it answers:**
 - Which sales channel brings in the most customers and revenue?
@@ -277,7 +277,7 @@ The home page provides a high-level snapshot (989M revenue, 27K customers, 4 cha
 
 ### 👥 Page 3 — Age Group Analysis
 
-<img src="assets/screenshots/age_group.png" alt="Age Group Analysis" width="100%"/>
+<img src="screenshots/age_group.png" alt="Age Group Analysis" width="100%"/>
 
 **What it answers:**
 - Which age groups prefer which policies?
@@ -337,12 +337,7 @@ shield-insurance-analytics/
 ├── 📄 README.md
 │
 ├── 📂 data/
-│   ├── dim_customer.csv
-│   ├── dim_date.csv
-│   ├── dim_policies.csv
-│   ├── fact_premiums.csv
-│   ├── fact_settlements.csv
-│   └── meta_data.txt
+│   ├── The data files are confidential
 │
 ├── 📂 docs/
 │   ├── feature_list.xlsx          ← 17 features with priority & comments
@@ -353,11 +348,8 @@ shield-insurance-analytics/
 ├── 📂 dashboard/
 │   └── shield_insurance.pbix      ← Power BI file (main deliverable)
 │
-├── 📂 presentation/
-│   └── shield_insurance_presentation.pptx  ← 10-slide story deck
-│
 ├── 📂 documentation/
-│   └── shield_insurance_documentation.pptx ← User guide for client
+│   └── shield_insurance_report ← User guide for client
 │
 └── 📂 assets/
     ├── shield_insurance_logo.png
@@ -374,7 +366,7 @@ shield-insurance-analytics/
 
 ### View the Dashboard
 1. Download `dashboard/shield_insurance.pbix`
-2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+2. Open with [Power BI Desktop](https://app.powerbi.com/view?r=eyJrIjoiNDgzMWU2MzAtNTNmOC00ZjljLWE5N2EtMWZkOTYzMWZhZTAyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) (free)
 3. The data is embedded — no database connection needed
 4. Use the filters on each page to explore the data
 
