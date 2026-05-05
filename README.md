@@ -19,7 +19,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Completed-27AE60?style=flat-square)]()
 [![Domain](https://img.shields.io/badge/Domain-Insurance%20%7C%20FMCG%20%7C%20Analytics-1F4E79?style=flat-square)]()
-[![Program](https://img.shields.io/badge/Program-Codebasics%20Virtual%20Internship-F47C20?style=flat-square)](https://codebasics.io)
+[![Program](https://img.shields.io/badge/Program-AtliQ%20Virtual%20Internship-F47C20?style=flat-square)](https://AtliQ.io)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 ## 🔍 Project Overview
 
-Shield Insurance is a fictional insurance provider used as a case study in the **Codebasics Virtual Internship** program (designed by Dhaval Patel and Hemanand Vadivel).
+Shield Insurance is a fictional insurance provider used as a case study in the **AtliQ Virtual Internship** program (designed by Dhaval Patel and Hemanand Vadivel).
 
 The goal: build a professional, interactive Power BI dashboard that helps business leadership answer their most critical questions — without touching a single spreadsheet.
 
@@ -410,16 +410,16 @@ These are the real, transferable skills this project developed:
 
 **Harshil Patel** — Data Analytics professional based in the Netherlands, targeting roles in Supply Chain, FMCG, and Logistics domains.
 
-This project is part of the **Codebasics Virtual Internship** — a structured, real-world analytics program designed by industry practitioners.
+This project is part of the **AtliQ Virtual Internship** — a structured, real-world analytics program designed by industry practitioners.
 
 **I'm actively looking for data analyst opportunities in the Netherlands.**
 If you're hiring or want to connect — let's talk.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-188b2274/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HP85-NL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshil.patel150@gmail.com)
 
 </div>
 
@@ -427,7 +427,7 @@ If you're hiring or want to connect — let's talk.
 
 <div align="center">
 
-*Built with ❤️ as part of the Codebasics Virtual Internship*
+*Built with ❤️ as part of the AtliQ Virtual Internship*
 *Designed by Dhaval Patel & Hemanand Vadivel*
 
 ⭐ **If this project helped you, consider giving it a star!** ⭐
